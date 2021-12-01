@@ -1,4 +1,4 @@
-#study - Todo List
+# study - Todo List
 
 ### setting : react + typescript + recoil
 
